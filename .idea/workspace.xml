@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60b212e0-73cf-4f6d-89df-fc741aa2e2d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Back-End/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-End/models/Course.js" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/models/Course.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-End/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-End/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/routes/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-End/routes/course.js" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/routes/course.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-End/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/validation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-End/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-End/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-End/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Back-End" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Projet final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projet final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet final" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60b212e0-73cf-4f6d-89df-fc741aa2e2d9" name="Default Changelist" comment="" />
+      <created>1591705508969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591705508969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="640" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32951757" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Back-End/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
